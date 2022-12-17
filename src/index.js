@@ -4,7 +4,6 @@ import debounce from 'lodash.debounce';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import 'notiflix/dist/notiflix-3.2.5.min.css';
 
-// const delay = 300;
 const DEBOUNCE_DELAY = 300;
 
 const refs = {
